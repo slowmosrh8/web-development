@@ -1,0 +1,22 @@
+body
+{
+    background-color: #dadee5
+;
+}
+.page {
+ width: 360px;
+ padding: 8% 0 0;
+ margin: auto;
+}
+.form{ font-family: "Roboto", sans-serif;
+ outline: 0;
+ background: #f2f2f2
+;
+ width: 100%;
+ border: 1;
+ border-color: black;
+ margin: 0 0 15px;
+ padding: 15px;
+ box-sizing: border-box;
+ font-size: 14px;
+}
